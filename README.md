@@ -14,17 +14,17 @@
 -  [References](#references).
   
 ### Project Overview
-
+---
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 ![Colour-Test-Page-scaled](https://github.com/user-attachments/assets/8805dcdb-b08a-44f2-838c-defc3b5d8816)
 
 
 ### Data Sources
-
+---
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
 
 ### Tools
-
+---
 - Excel - Data Cleaning
 [Download here](https://microsoft.com).
 - SQL Server - Data Analysis - [Download here](https://microsoft.com).
@@ -72,4 +72,4 @@ I had to remove all zero values from budget and revenue columns because they wou
 2. [Stack Overflow](https://stack.com)
   
   
-  
+😄
